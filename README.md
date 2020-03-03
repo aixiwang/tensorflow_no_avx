@@ -4,3 +4,11 @@ If you install standard version tensorflow pip package in Intel ATOM platform (f
 
 The folder has pre-built version for your quick test. It's only for python 3.6.
 
+
+```shell
+cat tensorflow* > tensorflow.whl
+pip install tensorflow.whl
+
+``` 
+
+
